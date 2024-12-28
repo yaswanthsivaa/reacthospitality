@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacthospitality/static/css/main.528e15e0.css",
+    "main.js": "/reacthospitality/static/js/main.4dd566bd.js",
+    "static/js/488.c09dba42.chunk.js": "/reacthospitality/static/js/488.c09dba42.chunk.js",
+    "index.html": "/reacthospitality/index.html",
+    "main.528e15e0.css.map": "/reacthospitality/static/css/main.528e15e0.css.map",
+    "main.4dd566bd.js.map": "/reacthospitality/static/js/main.4dd566bd.js.map",
+    "488.c09dba42.chunk.js.map": "/reacthospitality/static/js/488.c09dba42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528e15e0.css",
+    "static/js/main.4dd566bd.js"
+  ]
+}
